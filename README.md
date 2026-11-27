@@ -38,8 +38,3 @@ Developed an interactive E-commerce Analysis Dashboard using Microsoft Power BI 
 - Business performance analysis.
 - Identifying trends and insights from data.
 
-## Author
-B.Tech Graduate | Computer Science and Engineering
-
-GitHub: Add your GitHub profile link here.
-
