@@ -26,7 +26,7 @@ Developed an interactive E-commerce Analysis Dashboard using Microsoft Power BI 
 - Interactive City and Order Date Filters.
 
 ## Dashboard Preview
-![E-commerce Dashboard](screenshots/dashboard.png)
+![E-commerce Dashboard](dashboard.png)
 ## Files Included
 - Power BI dashboard (.pbix)
 - Dataset (Excel/CSV)
